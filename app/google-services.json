@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "645095055625",
+    "firebase_url": "https://barmanager-efb0d-default-rtdb.firebaseio.com",
+    "project_id": "barmanager-efb0d",
+    "storage_bucket": "barmanager-efb0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645095055625:android:0fafe844735d4b3e8973d8",
+        "android_client_info": {
+          "package_name": "com.app.buchin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApCDhFstiUAid9zH89iOqq9dnD-Qytl0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
